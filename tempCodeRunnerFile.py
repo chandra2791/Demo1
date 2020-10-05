@@ -20,4 +20,3 @@ class LinkedList:
             node = node.next
         nodes.append("None")
         return " -> ".join(nodes)
-
